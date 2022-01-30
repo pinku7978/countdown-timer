@@ -1,6 +1,6 @@
 
 // here i put the date
-const newYears = '1 jan 2025';
+const newYears = '1 jan 2030';
 // here i selected the four p tags 
 const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
